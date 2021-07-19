@@ -1,0 +1,14 @@
+name: pysumma
+channels:
+  - conda-forge
+dependencies:
+  - basemap
+  - bottleneck
+  - dask-jobqueue
+  - geoviews
+  - statsmodels
+  - scikit-learn
+  - natsort
+  - pip
+  - pip:
+    - pyDOE
